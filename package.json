@@ -1,0 +1,34 @@
+{
+  "name": "@slavovojacek/prettier-config",
+  "version": "0.0.0",
+  "description": "Shared prettier config used in my projects",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "engines": {
+    "node": "16.x",
+    "npm": ">7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slavovojacek/prettier-config.git"
+  },
+  "keywords": [
+    "prettier",
+    "config",
+    "configuration"
+  ],
+  "author": {
+    "name": "Slavo Vojacek",
+    "email": "public@slavovojacek.com"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/slavovojacek/prettier-config/issues"
+  },
+  "homepage": "https://github.com/slavovojacek/prettier-config#readme",
+  "peerDependencies": {
+    "prettier": "2.5.x"
+  }
+}
