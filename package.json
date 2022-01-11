@@ -7,8 +7,8 @@
     "index.js"
   ],
   "engines": {
-    "node": "16.x",
-    "npm": ">7"
+    "node": ">=14",
+    "npm": ">=8"
   },
   "repository": {
     "type": "git",
@@ -29,6 +29,6 @@
   },
   "homepage": "https://github.com/slavovojacek/prettier-config#readme",
   "peerDependencies": {
-    "prettier": "2.5.x"
+    "prettier": "2.x"
   }
 }
